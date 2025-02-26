@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/CMSC-100-2S24-25-U3L/exer-04-javascript-basics-part-2-catrinahadi/issues"
   },
-  "homepage": "https://github.com/CMSC-100-2S24-25-U3L/exer-04-javascript-basics-part-2-catrinahadi#readme"
+  "homepage": "https://github.com/CMSC-100-2S24-25-U3L/exer-04-javascript-basics-part-2-catrinahadi#readme",
+  "dependencies": {
+    "uuid": "^11.1.0",
+    "validator": "^13.12.0"
+  }
 }
